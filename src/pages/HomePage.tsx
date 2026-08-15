@@ -136,7 +136,7 @@ export default function HomePage() {
           title: "E-commerce Premium",
           description: "Loja virtual de alta performance.",
           href: "#",
-          imageSrc: "http://img.b2bpic.net/free-photo/it-professional-upgrading-high-tech-ai-mockup-notebook-desk-close-up_482257-91173.jpg",
+          imageSrc: "https://images.pexels.com/photos/5560606/pexels-photo-5560606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=5560606",
         },
         {
           title: "Portal de Serviços",
