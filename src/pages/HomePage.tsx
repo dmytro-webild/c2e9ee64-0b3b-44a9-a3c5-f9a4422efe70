@@ -14,9 +14,9 @@ export default function HomePage() {
   <div id="hero" data-section="hero">
     <SectionErrorBoundary name="hero">
           <HeroSplitVerticalMarquee
-      tag=""
-      title="Inteligência que transforma seu negócio e seu futuro."
-      description="O futuro não pede  permissão,evolua com a ESQIPI."
+      tag="Inovação para seu negócio"
+      title="Criação de Sites e Automação de Atendimento"
+      description="Transformamos processos complexos em conversas ágeis. Conecte-se com seu cliente de forma inteligente e automática."
       primaryButton={{
         text: "Fale no WhatsApp",
         href: "https://wa.me/5500000000000",
@@ -73,7 +73,7 @@ export default function HomePage() {
   <div id="about" data-section="about">
     <SectionErrorBoundary name="about">
           <AboutText
-      title="Site bonito é bom.Site que vende é melhor!"
+      title="Nossa missão é impulsionar sua eficiência."
       textAnimation="fade-blur"
     />
     </SectionErrorBoundary>
