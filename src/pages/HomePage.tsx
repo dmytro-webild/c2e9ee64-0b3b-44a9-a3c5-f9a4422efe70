@@ -148,7 +148,7 @@ export default function HomePage() {
           title: "Blog Tech",
           description: "Conteúdo especializado e moderno.",
           href: "#",
-          imageSrc: "https://images.pexels.com/photos/9784238/pexels-photo-9784238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=9784238",
+          imageSrc: "https://images.pexels.com/photos/7779231/pexels-photo-7779231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=7779231",
         },
         {
           title: "Dashboard Analítico",
