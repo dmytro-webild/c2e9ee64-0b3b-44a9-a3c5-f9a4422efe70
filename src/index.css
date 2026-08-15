@@ -6,14 +6,14 @@
 :root {
   /* @colorThemes/lightTheme/grayNavyBlue */
   --background: #000000;
-  --card: #481f1f;
+  --card: #121814;
   --foreground: #ffffff;
-  --primary-cta: #ffffff;
-  --primary-cta-text: #280101;
-  --secondary-cta: #361311;
-  --secondary-cta-text: #f6d4d4;
-  --accent: #51000b;
-  --background-accent: #ff2231;
+  --primary-cta: #00e676;
+  --primary-cta-text: #000000;
+  --secondary-cta: #1a2e22;
+  --secondary-cta-text: #ffffff;
+  --accent: #00e676;
+  --background-accent: #003816;
 
   /* @layout/border-radius/rounded */
   --radius: 1.5rem;
