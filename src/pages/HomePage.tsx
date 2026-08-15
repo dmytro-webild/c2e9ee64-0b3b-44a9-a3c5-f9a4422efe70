@@ -118,7 +118,7 @@ export default function HomePage() {
           title: "Site Corporativo",
           description: "Portal completo para indústria.",
           href: "#",
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-weather-icons-clouds-with-lightnings_107791-17436.jpg",
+          imageSrc: "https://images.pexels.com/photos/7654168/pexels-photo-7654168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=7654168",
         },
         {
           title: "App Financeiro",
