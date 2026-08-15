@@ -124,7 +124,7 @@ export default function HomePage() {
           title: "App Financeiro",
           description: "Automação integrada ao sistema.",
           href: "#",
-          imageSrc: "http://img.b2bpic.net/free-photo/phone-14-screens-front-side-view-white-background_187299-32247.jpg",
+          imageSrc: "https://images.pexels.com/photos/33410957/pexels-photo-33410957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=33410957",
         },
         {
           title: "Landing Page SaaS",
