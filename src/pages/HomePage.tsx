@@ -217,7 +217,7 @@ export default function HomePage() {
           imageSrc: "http://img.b2bpic.net/free-photo/handsome-bearded-african-american-businessman-brown-classic-jacket-isolated-dark-background_613910-6551.jpg",
         },
         {
-          name: "Beatriz Reis",
+          name: "Thiago Reis",
           role: "Gerente",
           quote: "Processo transparente e muito eficiente.",
           rating: 5,
