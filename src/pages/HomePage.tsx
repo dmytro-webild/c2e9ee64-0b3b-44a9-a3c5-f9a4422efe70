@@ -148,7 +148,7 @@ export default function HomePage() {
           title: "Blog Tech",
           description: "Conteúdo especializado e moderno.",
           href: "#",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-sitting-house-with-automation-light-system-holding-smartphone-turning-light-using-voice-activated-application_482257-2271.jpg",
+          imageSrc: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=8386440",
         },
         {
           title: "Dashboard Analítico",
