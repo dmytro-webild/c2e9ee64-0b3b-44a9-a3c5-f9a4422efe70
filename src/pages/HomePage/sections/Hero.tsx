@@ -15,7 +15,7 @@ export default function HeroSection(): React.JSX.Element {
           description="Transformamos processos complexos em conversas ágeis. Conecte-se com seu cliente de forma inteligente e automática."
           primaryButton={{
             text: "Fale no WhatsApp",
-            href: "https://wa.me/5500000000000",
+            href: "https://wa.me/5541988338255",
           }}
           secondaryButton={{
             text: "Conheça mais",
