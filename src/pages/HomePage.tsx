@@ -142,7 +142,7 @@ export default function HomePage() {
           title: "Portal de Serviços",
           description: "Gestão de agendamentos.",
           href: "#",
-          imageSrc: "https://images.pexels.com/photos/7779231/pexels-photo-7779231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=7779231",
+          imageSrc: "https://images.pexels.com/photos/17731630/pexels-photo-17731630.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=17731630",
         },
         {
           title: "Blog Tech",
