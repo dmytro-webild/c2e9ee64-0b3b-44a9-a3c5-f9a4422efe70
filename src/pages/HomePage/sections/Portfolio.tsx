@@ -39,7 +39,7 @@ export default function PortfolioSection(): React.JSX.Element {
               imageSrc: "https://images.pexels.com/photos/5560606/pexels-photo-5560606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=5560606",
             },
             {
-              title: "Portal de Serviços",
+              title: "Portal de ",
               description: "Gestão de agendamentos.",
               href: "#",
               imageSrc: "https://images.pexels.com/photos/8439002/pexels-photo-8439002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=8439002",
