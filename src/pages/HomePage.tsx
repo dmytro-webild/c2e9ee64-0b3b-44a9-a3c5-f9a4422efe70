@@ -121,7 +121,7 @@ export default function HomePage() {
           imageSrc: "https://images.pexels.com/photos/7654168/pexels-photo-7654168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=7654168",
         },
         {
-          title: "App Financeiro",
+          title: "Processo automatizado de leads.",
           description: "Automação integrada ao sistema.",
           href: "#",
           imageSrc: "https://images.pexels.com/photos/9784240/pexels-photo-9784240.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=9784240",
@@ -196,14 +196,14 @@ export default function HomePage() {
       description="Resultados reais para empresas que confiam na nossa automação."
       testimonials={[
         {
-          name: "João Silva",
+          name: "Wendryll Moraes",
           role: "CEO",
           quote: "A automação dobrou nossos leads.",
           rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/picture-attractive-caucasian-man-with-money-pocket_176420-7260.jpg",
         },
         {
-          name: "Ana Souza",
+          name: "João Mello Souza",
           role: "Marketing",
           quote: "O site ficou impecável e muito rápido.",
           rating: 5,
