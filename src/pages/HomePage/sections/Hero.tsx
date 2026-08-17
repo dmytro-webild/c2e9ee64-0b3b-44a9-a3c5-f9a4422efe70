@@ -10,16 +10,16 @@ export default function HeroSection(): React.JSX.Element {
     <div id="hero" data-section="hero">
         <SectionErrorBoundary name="hero">
               <HeroSplitVerticalMarquee
-          tag="Lavanderia Express em Fazenda Rio Grande"
-          title="Roupas limpas, cheirosas e prontas com máxima praticidade."
-          description="A MELAV Lavanderia Express oferece lavagem, secagem e cuidado especial para suas roupas. Aberto todos os dias até 01:00 na Avenida Brasil, 1569."
+          tag="Inovação para seu negócio"
+          title="Menos demanda pra sua empresa, inteligência pro seu negócio."
+          description="Transformamos processos complexos em conversas ágeis. Conecte-se com seu cliente de forma inteligente e automática."
           primaryButton={{
             text: "Fale no WhatsApp",
-            href: "https://wa.me/5541988538503?text=Ol%C3%A1!%20Vim%20pelo%20site%20e%20quero%20saber%20mais%20sobre%20os%20servi%C3%A7os%20de%20lavanderia.",
+            href: "https://wa.me/5541988338255",
           }}
           secondaryButton={{
-            text: "Nossos Serviços",
-            href: "#services",
+            text: "Conheça mais",
+            href: "#about",
           }}
           leftItems={[
             {
