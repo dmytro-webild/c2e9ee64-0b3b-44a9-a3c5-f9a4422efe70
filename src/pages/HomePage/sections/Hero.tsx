@@ -11,7 +11,7 @@ export default function HeroSection(): React.JSX.Element {
         <SectionErrorBoundary name="hero">
               <HeroSplitVerticalMarquee
           tag="Inovação para seu negócio"
-          title="Menos demanda pra sua empresa, inteligência pro seu negócio."
+          title="A tecnologia que grandes empresas usam, no tamanho do seu negócio."
           description="Transformamos processos complexos em conversas ágeis. Conecte-se com seu cliente de forma inteligente e automática."
           primaryButton={{
             text: "Fale no WhatsApp",
